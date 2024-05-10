@@ -1,2 +1,2 @@
 # loadash_stats
-A simple code to get loadash stats
+A simple program to get loadash stats
