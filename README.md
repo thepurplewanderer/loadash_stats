@@ -7,7 +7,7 @@ To run the program, follow these steps:
 2. Add the following entries in .env file
    GITHUB_BASE_URL = 'https://api.github.com'
    GITHUB_REPO = 'lodash/lodash'
-   GITHUB_USERNAME = 'thepurplewanderer'
+   GITHUB_USERNAME = '$your_username'
    GITHUB_TOKEN = '$your_token'
 3. Run the python script charCount.py
    /usr/local/bin/python3.8 charCount.py (For example, on my local machine)
